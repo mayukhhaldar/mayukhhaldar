@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I am Mayukh Haldar.
+
+I just got started with this page. I will post more updates soon!!
 
 <!--
 **mayukhhaldar/mayukhhaldar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
